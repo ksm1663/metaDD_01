@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6C279CBC-22CC-7399-608E-F45B005082EC}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayRealTime/CLOVAAPI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayRealTime/RealTime_REC_NOW.cs" Line="49" Column="25" />
+      <File FileName="Assets/Scripts/PlayRealTime/CLOVAAPI.cs" Line="35" Column="36" />
+      <File FileName="Assets/Scripts/PlayRealTime/WavUtility.cs" Line="12" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c6e264cb-ebd0-41f6-9cfa-c0667256c1de" />
+</Properties>
